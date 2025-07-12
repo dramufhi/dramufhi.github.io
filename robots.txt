@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://dramufhi.github.io/sitemap.xml
