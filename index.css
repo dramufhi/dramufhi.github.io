@@ -1,0 +1,16 @@
+.container {
+   max-width: fit-content;
+   margin: 0 auto;
+   padding: 20px;
+   font-family: Arial, sans-serif;
+   border-color: blue;
+   background-color: #666;
+ }
+
+ h1 {
+   color: #333;
+ }
+
+ p {
+   color: #666;
+ }
